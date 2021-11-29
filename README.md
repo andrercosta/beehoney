@@ -1,16 +1,13 @@
 # beehoney
 
-A new Flutter project.
+Um Jogo densenvolvido utilizando Flutter e Flame
+Exercicio prático do curso https://startto.dev/courses/flutterFlame
 
-## Getting Started
+## O Jogo
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/62508945/143934352-cf3d17bd-0691-4174-bfbd-d1d532e8919b.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/62508945/143934285-e088a796-f0ee-475e-bbdc-13df3e718721.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/62508945/143934592-43f116f8-9085-4c26-bc7b-4445b8de85e4.png)
